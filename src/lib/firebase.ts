@@ -1,14 +1,14 @@
-// import { getAuth } from "firebase/auth"
-// import { initializeApp } from "firebase/app";
+import { initializeApp } from "firebase/app";
+import { getAuth } from "firebase/auth"
 
-// const firebaseConfig = {
-//     apiKey: "AIzaSyC3aZmKoOvyVBXXQJ3YRZmutSXSs6l9DkM",
-//     authDomain: "e-commerce-c7b71.firebaseapp.com",
-//     projectId: "e-commerce-c7b71",
-//     storageBucket: "e-commerce-c7b71.appspot.com",
-//     messagingSenderId: "587504375647",
-//     appId: "1:587504375647:web:cbf6c2dac29ca247fe88ea"
-// };
+const firebaseConfig = {
+  apiKey: "AIzaSyDTK32zic7PR6ag1u6yORxXeShDu4uhXS4",
+  authDomain: "dinemarket-1a469.firebaseapp.com",
+  projectId: "dinemarket-1a469",
+  storageBucket: "dinemarket-1a469.appspot.com",
+  messagingSenderId: "882105190135",
+  appId: "1:882105190135:web:7e30ff4713b90a9ebe35f2"
+};
 
-// const app = initializeApp(firebaseConfig);
-// export const auth =  getAuth();
+const app = initializeApp(firebaseConfig);
+export const auth =  getAuth();
