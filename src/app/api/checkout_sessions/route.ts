@@ -11,52 +11,37 @@ interface typeOfData {
 
 let orignalData: Array<typeOfData> = [
     {
-        price: 'price_1NLM6oGWv7lYUltJ5GnDYwfO',
-        name: 'Pink Fleece Sweatpants',
+        price: 'price_1NfS3iJ0cdSC5WPHJ1HEbKwi',
+        name: 'Muscle Tank',
         quantity: 1,
     },
     {
-        price: 'price_1NLM8bGWv7lYUltJS8C3UtWh',
-        name: 'Brushed Raglan Sweatshirt',
+        price: 'price_1NfS4fJ0cdSC5WPHZdXoW1Wr',
+        name: 'Brushed Bomber',
         quantity: 1,
     },
     {
-        price: 'price_1NLMBFGWv7lYUltJUgbOCM7F',
-        name: 'Cameryn Sash Tie Dress',
-        quantity: 1,
-    },
-    {
-        price: 'price_1NLMK3GWv7lYUltJOAdEdaDA',
+        price: 'price_1NfRxxJ0cdSC5WPHp1PhpjeW',
         name: 'Imperial Alpaca Hoodie',
         quantity: 1,
     },
     {
-        price: 'price_1NLMM8GWv7lYUltJnKC8hHsJ',
-        name: 'Kids One',
-        quantity: 1,
-    },
-    {
-        price: 'price_1NLMO2GWv7lYUltJSuKwqJ5r',
-        name: 'Imperial Alpaca Hoodie Woman',
-        quantity: 1,
-    },
-    {
-        price: 'price_1NLMPgGWv7lYUltJ3B1ST39E',
+        price: 'price_1NfRuYJ0cdSC5WPH3ke48NZN',
         name: 'Flex Sweatpants',
         quantity: 1,
     },
     {
-        price: 'price_1NLMR4GWv7lYUltJInH1xRm9',
+        price: 'price_1NfRwfJ0cdSC5WPH2BWDluGc',
         name: 'Lite Sweatpants',
         quantity: 1,
     },
     {
-        price: 'price_1NLOOiGWv7lYUltJawy9Sxy7',
+        price: 'price_1NfS5hJ0cdSC5WPHCX2N6zXe',
         name: 'Raglan Sweatshirt',
         quantity: 1,
     },
     {
-        price: 'price_1NLOQ0GWv7lYUltJzyBK3ZyP',
+        price: 'price_1NfRzeJ0cdSC5WPHIKyn307C',
         name: 'Flex Push Button Bomber',
         quantity: 1,
     },
